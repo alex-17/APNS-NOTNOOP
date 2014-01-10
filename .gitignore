@@ -1,0 +1,5 @@
+/build
+/src/localtest
+/.settings
+.classpath
+.project
